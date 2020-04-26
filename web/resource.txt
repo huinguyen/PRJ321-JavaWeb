@@ -1,0 +1,12 @@
+login-LoginServlet
+loginPage-login.html
+errorLogin-errorLoginPage.html
+logout-LogoutServlet
+searchLastname-SearchLastnameServlet
+searchPage-search.jsp
+updateAccount-UpdateAccountServlet
+deleteAccount-DeleteAccountServlet
+errorDeletePage-errorDelete.html
+registerAccount-RegisterAccountServlet
+registerPage-registerAccount.html
+pageNotFound-pageNotFound.html
